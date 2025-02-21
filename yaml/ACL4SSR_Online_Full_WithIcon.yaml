@@ -238,6 +238,13 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+  - name: 欧洲节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/European_Union.png
+    include-all: true
+    filter: (?i)NL|nl|de|DE|OVH|Netcup|H2
+    type: url-test
+    interval: 300
+    tolerance: 50
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
@@ -255,7 +262,7 @@ proxy-groups:
   - name: 美国节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
     include-all: true
-    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
+    filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States|us|US
     type: url-test
     interval: 300
     tolerance: 50
@@ -283,7 +290,7 @@ proxy-groups:
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
-    filter: (?i)NF|奈飞|解锁|Netflix|NETFLIX|Media
+    filter: (?i)NF|SG|Netflix|NETFLIX|DE|K|MO|NL|nl|de|DE|OVH|Netcup|H2
     type: select
   - name: GLOBAL
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Global.png
