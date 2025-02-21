@@ -11,6 +11,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: 手动切换
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/select.png
@@ -35,6 +36,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: OpenAi
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
@@ -49,6 +51,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: 油管视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
@@ -63,6 +66,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: 奈飞视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
@@ -78,6 +82,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: 巴哈姆特
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bahamut.png
@@ -107,6 +112,7 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+      - 欧洲节点
       - DIRECT
   - name: 国内媒体
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DomesticMedia.png
@@ -130,6 +136,7 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 韩国节点
+      - 欧洲节点
       - 手动切换
   - name: 微软Bing
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/bing.png
@@ -143,6 +150,7 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 韩国节点
+      - 欧洲节点
       - 手动切换
   - name: 微软云盘
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/OneDrive.png
@@ -169,6 +177,7 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 韩国节点
+      - 欧洲节点
       - 手动切换
   - name: 苹果服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
@@ -237,6 +246,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 韩国节点
+      - 欧洲节点
       - 手动切换
   - name: 欧洲节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/European_Union.png
@@ -326,6 +336,7 @@ proxy-groups:
       - 狮城节点
       - 韩国节点
       - 奈飞节点
+      - 欧洲节点
 
 rule-providers:
   LocalAreaNetwork:
