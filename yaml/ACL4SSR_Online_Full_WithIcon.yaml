@@ -261,7 +261,7 @@ proxy-groups:
   - name: 德国节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/DE.png
     include-all: true
-    filter: (?i)de|DE|Netcup
+    filter: (?i)DE|de|Netcup
     type: url-test
     interval: 300
     tolerance: 50
